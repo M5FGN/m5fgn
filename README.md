@@ -8,11 +8,11 @@
 
 ### What I've been learning ...
 
-⭐ Python
-⭐ Flask
-⭐ PostgresSQL
-⭐ HTML/CSS
-⭐ JavaScript
-⭐ Unit Testing
-⭐ Git
+⭐ Python \
+⭐ Flask \
+⭐ PostgresSQL \
+⭐ HTML/CSS \
+⭐ JavaScript \
+⭐ Unit Testing \
+⭐ Git \
 
