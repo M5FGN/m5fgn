@@ -14,5 +14,5 @@
 ⭐ HTML/CSS \
 ⭐ JavaScript \
 ⭐ Unit Testing \
-⭐ Git \
+⭐ Git 
 
