@@ -13,6 +13,8 @@
 ⭐ PostgresSQL \
 ⭐ HTML/CSS \
 ⭐ JavaScript \
+⭐ React \
+⭐ TDD and BDD \
 ⭐ Unit Testing \
 ⭐ Git 
 
