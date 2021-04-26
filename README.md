@@ -16,8 +16,8 @@
 ⭐ React \
 ⭐ TDD and BDD \
 ⭐ Unit Testing \
-⭐ Git 
-⭐ Express.js
-⭐ MongoDB
+⭐ Git \
+⭐ Express.js \
+⭐ MongoDB \
 
 
