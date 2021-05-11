@@ -5,10 +5,11 @@
 -->
 
 ### 2021 Goals
-🎯 Learn current development languages, technologies and tools ------ \
------- ✔️ Currently studying Software Development at CodeClan 
-      
-🎯 Switch to a Software Development related role.
+🎯 Learn current development languages, technologies and tools \
+✔️ Currently studying Software Development at CodeClan 
+<br></br>
+🎯 Switch to a Software Development related role. \
+⏳ Currently open to work and actively applying for roles.
 
 <br></br>
 ### Languages
