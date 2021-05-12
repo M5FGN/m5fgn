@@ -5,7 +5,7 @@
 -->
 
 ### 2021 Goals
-🎯 Learn current development languages, technologies and tools \
+🎯 Learn current development languages, technologies and tools. \
 ✔️ Currently studying Software Development at CodeClan 
 <br></br>
 🎯 Switch to a Software Development related role. \
@@ -31,7 +31,8 @@
 [<img align="left" alt="m5fgn | CodePen" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/codepen.svg" />][codepen]
 
 <br></br>
-### Conect With Me
+### Connect With Me
+[<img align="left" alt="m5fgn | Twitter" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][twitter]
 [<img align="left" alt="m5fgn | Twitter" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 
 
@@ -39,4 +40,4 @@
 
 [codepen]: https://codepen.io/m5fgn
 [twitter]: https://twitter.com/m5fgn
-
+[linkedin]: https://www.linkedin.com/in/marystewartfagan/
