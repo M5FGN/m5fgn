@@ -36,7 +36,7 @@
 [<img align="left" alt="m5fgn | Twitter" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][twitter]
 [<img align="left" alt="m5fgn | Twitter" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter] \
 <br></br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=m5fgn&langs_count=8)]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=m5fgn&langs_count=8)](https://github.com/M5FGN?tab=repositories)
 
 
 [codepen]: https://codepen.io/m5fgn
