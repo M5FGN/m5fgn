@@ -19,6 +19,7 @@
 <img align="left" alt="PostgresSQL" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" />
 <img align="left" alt="Express" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png" />
 <img align="left" alt="Cypress" width="40px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" />
+<img align="left" alt="Java" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />
  
 <br></br>
 ### Tools
@@ -35,9 +36,9 @@
 [<img align="left" alt="m5fgn | Twitter" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][twitter]
 [<img align="left" alt="m5fgn | Twitter" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter] \
 <br></br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=m5fgn&langs_count=8)](https://github.com/m5fgn/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=m5fgn&langs_count=8)]
 
 
 [codepen]: https://codepen.io/m5fgn
 [twitter]: https://twitter.com/m5fgn
-[linkedin]: https://www.linkedin.com/in/marystewartfagan/
+[linkedin]: https://www.linkedin.com/in/m5fgn/
