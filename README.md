@@ -6,7 +6,7 @@
 
 ### 2021 Goals
 🎯 Learn current development languages, technologies and tools. \
-✔️ Graduated from Code Clan Professional Software Development programme
+✔️ Graduated from Code Clan Professional Software Development programme \
 ✔️ Gained PDA in Software Development
 <br></br>
 🎯 Switch to a Software Development related role. \
