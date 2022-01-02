@@ -10,12 +10,12 @@
 ✔️ Gained PDA in Software Development
 <br></br>
 🎯 Switch to a Software Development related role. \
-✔️ Junior Developer since August 2021
+✔️ Junior Developer (working with JavaScript and SQL) since August 2021
 
 ### 2022 Goals
-🎯 Further develop my skills in technology currently used for work - Bootstrap, JavaScript and SQL. \
-🎯 Enhance my Frontend skills through practice exercises and projects - mainly React. \
-🎯 Gain new Backend skills through online courses and projects - potentially PHP. \
+🎯 Further develop my skills in technology currently used for work i.e. Bootstrap, JavaScript and SQL. \
+🎯 Enhance my Frontend skills through practice exercises and projects i.e. mainly React. \
+🎯 Gain new Backend skills through online courses and projects i.e. potentially PHP. \
 🎯 Enhance the testing skills gained from Code Clan.
 
 ### Languages and Technologies
