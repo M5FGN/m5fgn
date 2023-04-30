@@ -9,7 +9,7 @@
 🎯 Gain an understanding of PHP Frameworks - CodeIgniter and Laravel \
 🎯 Revise and further develop my React skills from the level gained at CodeClan \
 🎯 Enhance the testing skills gained from Code Clan. \
-🎯 Learn PowerBI \
+🎯 Learn PowerBI 
 
 
 ### 2022 Goals
