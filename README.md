@@ -5,21 +5,21 @@
 -->
 
 ### 2023 Goals
-🎯 Enhance my undrestanding of Object Orientated Programming through courses and practice. 
-🎯 Gain an understanding of PHP Frameworks - CodeIgniter and Laravel
-🎯 Revise and further develop my React skills from the level gained at CodeClan
-🎯 Enhance the testing skills gained from Code Clan.
-🎯 Learn PowerBI
+🎯 Enhance my undrestanding of Object Orientated Programming through courses and practice. \
+🎯 Gain an understanding of PHP Frameworks - CodeIgniter and Laravel \
+🎯 Revise and further develop my React skills from the level gained at CodeClan \
+🎯 Enhance the testing skills gained from Code Clan. \
+🎯 Learn PowerBI \
 
 
 ### 2022 Goals
 🎯 Further develop my skills in technology currently used for work i.e. Bootstrap, JavaScript and SQL. \
-✔️ Changed Roles and now regularly working with Javascript, SQL, Bootstrap and PHP.
+✔️ Changed Roles and now regularly working with Javascript, SQL, Bootstrap and PHP. \
 🎯 Enhance my Frontend skills through practice exercises and projects i.e. mainly React. \
-✔️*  Regularly complete Codewars exercises and have worked on many projects that have enhanced my skills (!Unfortunately, not React)
+✔️*  Regularly complete Codewars exercises and have worked on many projects that have enhanced my skills (! Unfortunately, not React) \
 🎯 Gain new Backend skills through online courses and projects i.e. potentially PHP. \
-✔️ Completed Codeacademy course in PHP and now use these skills on a daily basis in work.
-🎯 Enhance the testing skills gained from Code Clan.
+✔️ Completed Codeacademy course in PHP and now use these skills on a daily basis in work. \
+🎯 Enhance the testing skills gained from Code Clan. \
 ❌ Some progress made but due to moving roles this was no longer achievable.
 
 
