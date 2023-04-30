@@ -35,6 +35,7 @@
 ### Technologies and Tools
 [![HTML](https://img.shields.io/badge/-HTML-5c0f84?style=for-the-badge&logo=html5&logoColor=white)](https://github.com/M5FGN)
 [![CSS](https://img.shields.io/badge/CSS3-5c0f84?style=for-the-badge&logo=css3&logoColor=white)](https://github.com/M5FGN)
+[![Bootstrap](https://img.shields.io/badge/Bootstrap-5c0f84?style=for-the-badge&logo=bootstrap&logoColor=white)](https://github.com/M5FGN)
 [![JavaScript](https://img.shields.io/badge/JavaScript-5c0f84?style=for-the-badge&logo=JavaScript&logoColor=white)](https://github.com/M5FGN)
 [![React](https://img.shields.io/badge/React-5c0f84?style=for-the-badge&logo=React&logoColor=white)](https://github.com/M5FGN)
 [![Node.js](https://img.shields.io/badge/Node.js-5c0f84?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://github.com/M5FGN)
@@ -42,9 +43,9 @@
 [![PHP](https://img.shields.io/badge/PHP-5c0f84?style=for-the-badge&logo=PHP&logoColor=white)](https://github.com/M5FGN)
 [![Python](https://img.shields.io/badge/Python-5c0f84?style=for-the-badge&logo=Python&logoColor=white)](https://github.com/M5FGN)
 [![Flask](https://img.shields.io/badge/Flask-5c0f84?style=for-the-badge&logo=Flask&logoColor=white)](https://github.com/M5FGN)
-[![Java](https://img.shields.io/badge/Java-5c0f84?style=for-the-badge&logo=Java&logoColor=white)](https://github.com/M5FGN)
-[![Spring](https://img.shields.io/badge/Spring-5c0f84?style=for-the-badge&logo=Spring&logoColor=white)](https://github.com/M5FGN)<br/>
+[![Java](https://img.shields.io/badge/Java-5c0f84?style=for-the-badge&logo=Java&logoColor=white)](https://github.com/M5FGN)<br/>
 
+[![Spring](https://img.shields.io/badge/Spring-5c0f84?style=for-the-badge&logo=Spring&logoColor=white)](https://github.com/M5FGN)
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-5c0f84?style=for-the-badge&logo=PostgreSQL&logoColor=white)](https://github.com/M5FGN)
 [![microsoftsqlserver](https://img.shields.io/badge/microsoft%20sql%20server-5c0f84?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)](https://github.com/M5FGN)
 [![mysql](https://img.shields.io/badge/mysql-5c0f84?style=for-the-badge&logo=mysql&logoColor=white)](https://github.com/M5FGN)
