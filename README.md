@@ -4,11 +4,24 @@
 **M5FGN/m5fgn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
+### 2023 Goals
+🎯 Enhance my undrestanding of Object Orientated Programming through courses and practice. 
+🎯 Gain an understanding of PHP Frameworks - CodeIgniter and Laravel
+🎯 Revise and further develop my React skills from the level gained at CodeClan
+🎯 Enhance the testing skills gained from Code Clan.
+🎯 Learn PowerBI
+
+
 ### 2022 Goals
 🎯 Further develop my skills in technology currently used for work i.e. Bootstrap, JavaScript and SQL. \
+✔️ Changed Roles and now regularly working with Javascript, SQL, Bootstrap and PHP.
 🎯 Enhance my Frontend skills through practice exercises and projects i.e. mainly React. \
+✔️*  Regularly complete Codewars exercises and have worked on many projects that have enhanced my skills (!Unfortunately, not React)
 🎯 Gain new Backend skills through online courses and projects i.e. potentially PHP. \
+✔️ Completed Codeacademy course in PHP and now use these skills on a daily basis in work.
 🎯 Enhance the testing skills gained from Code Clan.
+❌ Some progress made but due to moving roles this was no longer achievable.
+
 
 ### 2021 Goals
 🎯 Learn current development languages, technologies and tools. \
@@ -26,6 +39,7 @@
 [![React](https://img.shields.io/badge/React-5c0f84?style=for-the-badge&logo=React&logoColor=white)](https://github.com/M5FGN)
 [![Node.js](https://img.shields.io/badge/Node.js-5c0f84?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://github.com/M5FGN)
 [![Express.js](https://img.shields.io/badge/Express.js-5c0f84?style=for-the-badge&logo=Express.js&logoColor=white)](https://github.com/M5FGN)
+[![PHP](https://img.shields.io/badge/PHP-5c0f84?style=for-the-badge&logo=PHP&logoColor=white)](https://github.com/M5FGN)
 [![Python](https://img.shields.io/badge/Python-5c0f84?style=for-the-badge&logo=Python&logoColor=white)](https://github.com/M5FGN)
 [![Flask](https://img.shields.io/badge/Flask-5c0f84?style=for-the-badge&logo=Flask&logoColor=white)](https://github.com/M5FGN)
 [![Java](https://img.shields.io/badge/Java-5c0f84?style=for-the-badge&logo=Java&logoColor=white)](https://github.com/M5FGN)
