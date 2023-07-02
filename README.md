@@ -37,6 +37,7 @@
 [![CSS](https://img.shields.io/badge/CSS3-5c0f84?style=for-the-badge&logo=css3&logoColor=white)](https://github.com/M5FGN)
 [![Bootstrap](https://img.shields.io/badge/Bootstrap-5c0f84?style=for-the-badge&logo=bootstrap&logoColor=white)](https://github.com/M5FGN)
 [![JavaScript](https://img.shields.io/badge/JavaScript-5c0f84?style=for-the-badge&logo=JavaScript&logoColor=white)](https://github.com/M5FGN)
+[![JQuery](https://img.shields.io/badge/JQuery-5c0f84?style=for-the-badge&logo=JQuery&logoColor=white)](https://github.com/M5FGN)
 [![React](https://img.shields.io/badge/React-5c0f84?style=for-the-badge&logo=React&logoColor=white)](https://github.com/M5FGN)
 [![Node.js](https://img.shields.io/badge/Node.js-5c0f84?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://github.com/M5FGN)
 [![Express.js](https://img.shields.io/badge/Express.js-5c0f84?style=for-the-badge&logo=Express.js&logoColor=white)](https://github.com/M5FGN)
