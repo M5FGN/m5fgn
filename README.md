@@ -4,12 +4,19 @@
 **M5FGN/m5fgn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
+### 2024 Goals
+Coming Soon
+
 ### 2023 Goals
 🎯 Enhance my understanding of Object Orientated Programming through courses and practice. \
+✔️ Completed a Object Orientated Java Module via Dundee University \
+✔️ Ongoing work on a Object Orientated Code Base \
 🎯 Gain an understanding of PHP Frameworks - CodeIgniter and Laravel \
+✔️ Ongoing work on a PHP Codebase which uses CodeIgniter \
 🎯 Revise and further develop my React skills from the level gained at CodeClan \
 🎯 Enhance the testing skills gained from Code Clan. \
-🎯 Learn PowerBI 
+🎯 Learn PowerBI \
+✔️ Completed Power BI: Beginner, Power BI: Intermediate and Power BI: Advanced training provided by my employer.
 
 
 ### 2022 Goals
