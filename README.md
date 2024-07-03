@@ -4,17 +4,24 @@
 **M5FGN/m5fgn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-### 2024 Goals
-Coming Soon
+### Ongoing Goals
+🎯 Revise and further develop my React skills from the level gained at CodeClan \
+🎯 Create Portfolio examples to practice and highlight my current skills and ongoing learning. \
 
 ### 2023 Goals
 🎯 Enhance my understanding of Object Orientated Programming through courses and practice. \
 ✔️ Completed a Object Orientated Java Module via Dundee University \
 ✔️ Ongoing work on a Object Orientated Code Base \
+<br></br>
 🎯 Gain an understanding of PHP Frameworks - CodeIgniter and Laravel \
 ✔️ Ongoing work on a PHP Codebase which uses CodeIgniter \
+<br></br>
 🎯 Revise and further develop my React skills from the level gained at CodeClan \
+❌ Timewise this was not possible basic revision. \
+<br></br>
 🎯 Enhance the testing skills gained from Code Clan. \
+❌ Sadly, as my current role doesn't involve testing I have not made the progress on this I would have liked. \
+<br></br>
 🎯 Learn PowerBI \
 ✔️ Completed Power BI: Beginner, Power BI: Intermediate and Power BI: Advanced training provided by my employer.
 
@@ -22,10 +29,13 @@ Coming Soon
 ### 2022 Goals
 🎯 Further develop my skills in technology currently used for work i.e. Bootstrap, JavaScript and SQL. \
 ✔️ Changed Roles and now regularly working with Javascript, SQL, Bootstrap and PHP. \
+<br></br>
 🎯 Enhance my Frontend skills through practice exercises and projects i.e. mainly React. \
 ✔️*  Regularly complete Codewars exercises and have worked on many projects that have enhanced my skills (! Unfortunately, not React) \
+<br></br>
 🎯 Gain new Backend skills through online courses and projects i.e. potentially PHP. \
 ✔️ Completed Codeacademy course in PHP and now use these skills on a daily basis in work. \
+<br></br>
 🎯 Enhance the testing skills gained from Code Clan. \
 ❌ Some progress made but due to moving roles this was no longer achievable.
 
